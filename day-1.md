@@ -1,5 +1,5 @@
-# 29.03.2026
+# Daily Learning
 
-## Make git commit
+## Morning Planning
 
-### Ignatenko Igor
+## Review
